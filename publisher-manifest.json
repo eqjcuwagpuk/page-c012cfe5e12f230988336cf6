@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "268611cbfa4f91e102ef9bfc",
+  "owner": "eqjcuwagpuk",
+  "repo": "page-c012cfe5e12f230988336cf6",
+  "title": "BosLife",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c012cfe5e12f230988336cf6",
+      "a": "BosLife",
+      "b": "免费订阅导入",
+      "entity": "BosLife",
+      "brand": "BosLife",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7d1cba488519e8550a9124f20cdd3e7494a1b380562c28f29b223701ce629440",
+      "content": {
+        "primary_entity": "BosLife",
+        "keyword1": "BosLife",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择匹配的客户端，桌面端、移动端与路由器各有对应方案。",
+          "AI_CLIENTS_TITLE": "各平台客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并完成订阅导入，即可在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 BosLife",
+          "AI_DESCRIPTION": "，围绕订阅导入与套餐对比展开，提供基础版、旗舰版、团队版三档方案，月付分别为 ¥15、¥35、¥85；年付仅需 ¥150、¥350、¥850，流量、设备数与线路定位各有差异，方便按使用强度选择。",
+          "AI_FEATURES_INTRO": "从流量额度到在线设备数，逐项对比后更容易找到合适档位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，支持 20 台设备，适合多人协作。",
+          "AI_FEATURE_TITLE_1": "按流量档位选择",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_GUIDE_INTRO": "完成套餐选择与客户端配置，三步即可进入使用状态。",
+          "AI_GUIDE_TITLE": "订阅导入三步走",
+          "AI_HERO_INTRO": "BosLife 提供基础版、旗舰版、团队版三档套餐，围绕流量、设备数量与线路类型区分，订阅导入后可在常用客户端上使用，按需选择更省心。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏体验",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版平衡流量与设备数，团队版侧重多人协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量需求与常用设备数量，从三档套餐中挑选合适方案。",
+          "AI_STEP_TEXT_2": "确认所选套餐的在线设备数、线路类型与计费周期是否满足使用场景。",
+          "AI_STEP_TEXT_3": "参照各客户端说明完成订阅导入，桌面端与移动端分别按文档配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BosLife 套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合手机加电脑的轻度使用；旗舰版每月 300GB、5 台设备，并带 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于月付价格的约八三折，长期使用选年付更省。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台、旗舰版 5 台、团队版 20 台，均为同时在线设备数。如果家里有手机、平板、电脑和电视盒子，建议直接选旗舰版。",
+          "AI_FAQ_ANSWER_4": "在对应客户端内找到订阅或配置导入入口，粘贴购买后获得的订阅链接，更新节点列表后选择线路连接即可。不同客户端界面略有差异，可参考其配置文档。",
+          "AI_FAQ_ANSWER_5": "日常刷网页、看视频选基础版；有游戏加速和原生流媒体解锁需求选旗舰版；需要多人共享、企业定制路由则选团队版。三档都支持按年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "按月付和按年付价格差多少？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么限制？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c0bdc8f9fa8b37968e621ffcf42f0c58945c4502910e419b5056146b511db9ae",
+    "sitemap.xml": "66b20fbfc49c71d155cc69f2f4c274c4cf5c62d071d156a2cb37ce61dbce7ccb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3ccddf1f1e46791fd26a5e24d0bb604a2ed4c58d241c1e176ec15e37fb07d12b"
+}
